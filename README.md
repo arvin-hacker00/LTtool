@@ -6,7 +6,7 @@ pkg install git
 
 git clone https://github.com/arvin-hacker00/LTtool.git
 
-cd LT-tool-full.1
+cd LTtool
 
 chmod +x tool.sh
 
